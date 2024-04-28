@@ -59,5 +59,8 @@ If you find this work useful for your research, please kindly cite our paper:
 }
 
 ```
+# Acknowledgements
+ 
+ Thanks to the code available at https://github.com/rshaojimmy/SeqDeepFake.
 
 [//]: <## Acknowledgements>
