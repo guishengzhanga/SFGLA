@@ -31,21 +31,21 @@ cd SFGLA
 #### Facial Components Manipulation
 | Method            |  Fixed-Acc ${\uparrow}$ | Adaptive-Acc ${\uparrow}$
 | ----------------- | :---:             | :---: 
-| DRN               |  66.06            | 45.79 
-| Multi-Cls         | 69.65             | 50.57     
-| DETR              | 69.75             | 49.84     
-| MA                | 71.31             | 52.94 
-| SeqFakeFormer     |  71.58            | 53.62 
+| [DRN](https://arxiv.org/abs/1906.05856)               |  66.06            | 45.79 
+| [Multi-Cls](https://arxiv.org/pdf/2207.02204.pdf)         | 69.65             | 50.57     
+| [DETR](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)              | 69.75             | 49.84     
+| [MA](https://arxiv.org/abs/2103.02406)                | 71.31             | 52.94 
+| [SeqFakeFormer](https://arxiv.org/pdf/2207.02204.pdf)      |  71.58            | 53.62 
 |  SFGLA-Net (our)  |  **72.85**        | **55.70** 
 
 #### Facial Attributes Manipulation
 | Method            |  Fixed-Acc ${\uparrow}$ | Adaptive-Acc ${\uparrow}$
 | ----------------- | :---:             | :---: 
-| DRN               | 64.42             | 43.20 
-| Multi-Cls         | 66.66             | 46.00     
-| DETR              | 67.62             | 47.99     
-| MA                | 67.58             | 47.48 
-| SeqFakeFormer     | 68.12             | 48.58 
+| [DRN](https://arxiv.org/abs/1906.05856)              | 64.42             | 43.20 
+| [Multi-Cls](https://arxiv.org/pdf/2207.02204.pdf)         | 66.66             | 46.00     
+| [DETR](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)              | 67.62             | 47.99     
+| [MA](https://arxiv.org/abs/2103.02406)                | 67.58             | 47.48 
+| [SeqFakeFormer](https://arxiv.org/pdf/2207.02204.pdf)     | 68.12             | 48.58 
 |  SFGLA-Net (our)  |  **68.94**        | **49.74** 
 
 ## Citation
